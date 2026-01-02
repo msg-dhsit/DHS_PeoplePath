@@ -1,0 +1,12 @@
+{
+  "name": "peoplepath-teams",
+  "version": "1.0.0",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "dependencies": {
+    "botbuilder": "4.22.0",
+    "restify": "11.1.0"
+  }
+}
