@@ -1,0 +1,9 @@
+__pycache__/
+*.pyc
+.env
+node_modules/
+frontend/.next
+frontend/.turbo
+backend/.pytest_cache
+backend/.venv
+.DS_Store
